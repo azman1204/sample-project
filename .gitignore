@@ -2,7 +2,9 @@
 /public/storage
 /storage/*.key
 /vendor
+/netbeans
 /.idea
 Homestead.json
 Homestead.yaml
 .env
+/nbproject/private/
